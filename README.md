@@ -1,2 +1,2 @@
-# Resources
-Cloud storage that keeps all of resources I need.
+# Archives
+Cloud storage that keeps all of files I need.
