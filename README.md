@@ -28,6 +28,7 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/x760p.jpg)  | [Gemei X760+](https://github.com/steward-fu/archives/releases/tag/x760p) |
 | ![](images/rzx50.jpg)  | [Ritmix RZX-50](https://github.com/steward-fu/archives/releases/tag/rzx50) |
 | ![](images/ggm.jpg)  | [Game Gear Micro](https://github.com/steward-fu/archives/releases/tag/ggm) |
+| ![](images/funkeys.jpg)  | [FunKey S](https://github.com/steward-fu/archives/releases/tag/funkey-s) |
 | ![](images/trimui.jpg)  | [TRIMUI](https://github.com/steward-fu/archives/releases/tag/trimui) |
 | ![](images/trimui-smart.jpg)  | [TRIMUI SMART](https://github.com/steward-fu/archives/releases/tag/trimui-smart) |
 | ![](images/gcw0.jpg)  | [GCW Zero](https://github.com/steward-fu/archives/releases/tag/gcw0) |
