@@ -13,7 +13,6 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/wiz.jpg)  | [GP2X Wiz](https://github.com/steward-fu/archives/releases/tag/wiz) |
 | ![](images/caanoo.jpg)  | [GP2X Caanoo](https://github.com/steward-fu/archives/releases/tag/caanoo) |
 | ![](images/pandora.jpg)  | [OpenPandora](https://github.com/steward-fu/archives/releases/tag/openpandora) |
-| ![](images/pyra.jpg)  | [Pyra](https://github.com/steward-fu/archives/releases/tag/pyra) |
 | ![](images/pspgo.jpg)  | [PSP Go](https://github.com/steward-fu/archives/releases/tag/pspgo) |
 | ![](images/psv2000.jpg)  | [PlayStation Vita](https://github.com/steward-fu/archives/releases/tag/psv) |
 | ![](images/gb.jpg)  | [Game Boy](https://github.com/steward-fu/archives/releases/tag/gb) |
