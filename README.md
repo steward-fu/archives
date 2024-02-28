@@ -19,7 +19,6 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/ndsl.jpg)  | [Nintendo DS](https://github.com/steward-fu/archives/releases/tag/nds) |
 | ![](images/3ds.jpg)  | [Nintendo 3DS](https://github.com/steward-fu/archives/releases/tag/3ds) |
 | ![](images/gw.jpg)  | [Game & Watch: Super Mario Bros.](https://github.com/steward-fu/archives/releases/tag/gw) |
-| ![](images/a320.jpg)  | [Dingoo A320](https://github.com/steward-fu/archives/releases/tag/a320) |
 | ![](images/a330.jpg)  | [Dingoo Tech A330](https://github.com/steward-fu/archives/releases/tag/a330) |
 | ![](images/a380.jpg)  | [Dingoo Tech A380](https://github.com/steward-fu/archives/releases/tag/a380) |
 | ![](images/ga330.jpg)  | [Gemei A330](https://github.com/steward-fu/archives/releases/tag/ga330) |
