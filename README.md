@@ -9,7 +9,6 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/miyoo.jpg)  | [Miyoo](https://github.com/steward-fu/archives/releases/tag/miyoo) |
 | ![](images/pocketgo.jpg)  | [Pocket Go](https://github.com/steward-fu/archives/releases/tag/pocketgo) |
 | ![](images/miyoo-mini.jpg)  | [Miyoo Mini](https://github.com/steward-fu/archives/releases/tag/miyoo-mini) |
-| ![](images/miyoo-mini-plus.jpg)  | [Miyoo Mini Plus](https://github.com/steward-fu/archives/releases/tag/miyoo-mini-plus) |
 | ![](images/wiz.jpg)  | [GP2X Wiz](https://github.com/steward-fu/archives/releases/tag/wiz) |
 | ![](images/caanoo.jpg)  | [GP2X Caanoo](https://github.com/steward-fu/archives/releases/tag/caanoo) |
 | ![](images/pspgo.jpg)  | [PSP Go](https://github.com/steward-fu/archives/releases/tag/pspgo) |
