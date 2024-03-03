@@ -8,7 +8,6 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/gaviar.jpg)  | [Gaviar](https://github.com/steward-fu/archives/releases/tag/f133) |
 | ![](images/miyoo.jpg)  | [Miyoo](https://github.com/steward-fu/archives/releases/tag/miyoo) |
 | ![](images/pocketgo.jpg)  | [Pocket Go](https://github.com/steward-fu/archives/releases/tag/pocketgo) |
-| ![](images/wiz.jpg)  | [GP2X Wiz](https://github.com/steward-fu/archives/releases/tag/wiz) |
 | ![](images/caanoo.jpg)  | [GP2X Caanoo](https://github.com/steward-fu/archives/releases/tag/caanoo) |
 | ![](images/pspgo.jpg)  | [PSP Go](https://github.com/steward-fu/archives/releases/tag/pspgo) |
 | ![](images/psv2000.jpg)  | [PlayStation Vita](https://github.com/steward-fu/archives/releases/tag/psv) |
