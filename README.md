@@ -48,7 +48,6 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/n900.jpg)  | [Nokia N900](https://github.com/steward-fu/archives/releases/tag/n900) |
 | ![](images/n810.jpg)  | [Nokia N810](https://github.com/steward-fu/archives/releases/tag/n810) |
 | ![](images/xt897.jpg)  | [Motorola XT897](https://github.com/steward-fu/archives/releases/tag/xt897) |
-| ![](images/gemini-pda.jpg)  | [Gemini PDA 4G](https://github.com/steward-fu/archives/releases/tag/gemini-pda) |
 | ![](images/cosmo.jpg)  | [Cosmo Communicator](https://github.com/steward-fu/archives/releases/tag/cosmo) |
 | ![](images/astro.jpg)  | [Astro Slide 5G](https://github.com/steward-fu/archives/releases/tag/astro-slide-5g) |
 | ![](images/q30.jpg)  | [Blackberry Passport](https://github.com/steward-fu/archives/releases/tag/q30) |
