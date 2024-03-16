@@ -32,7 +32,6 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/rg300.jpg)  | [RG99](https://github.com/steward-fu/archives/releases/tag/rg99) |
 | ![](images/rg280m.jpg)  | [RG280M](https://github.com/steward-fu/archives/releases/tag/rg280m) |
 | ![](images/rg300x.jpg)  | [RG300X](https://github.com/steward-fu/archives/releases/tag/rg300x) |
-| ![](images/gkd350h.jpg)  | [GKD350H](https://github.com/steward-fu/archives/releases/tag/gkd350h) |
 | ![](images/gkdmini.jpg)  | [GKDmini](https://github.com/steward-fu/archives/releases/tag/gkdmini) |
 | ![](images/zpg-pro.jpg)  | [Z-Pocket Game Pro(ZPG Pro)](https://github.com/steward-fu/archives/releases/tag/zpg-pro) |
 | ![](images/x3.jpg)  | [Powkiddy X3](https://github.com/steward-fu/archives/releases/tag/x3) |
