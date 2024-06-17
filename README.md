@@ -57,7 +57,6 @@ This repository contains all of files or resources used on my website. These fil
 | ![](images/pro1x.jpg)  | [F(x)tec Pro1 X](https://github.com/steward-fu/archives/releases/tag/pro1-x) |
 | ![](images/titan.jpg)  | [Unihertz Titan](https://github.com/steward-fu/archives/releases/tag/titan) |
 | ![](images/c3200.jpg)  | [SHARP Zaurus](https://github.com/steward-fu/archives/releases/tag/zaurus) |
-| ![](images/d8.jpg)  | [iriver Dicple D8](https://github.com/steward-fu/archives/releases/tag/d8) |
 | ![](images/d88.jpg)  | [iriver Dicple D88](https://github.com/steward-fu/archives/releases/tag/d88) |
 | ![](images/zipit2.jpg)  | [Zipit Z2](https://github.com/steward-fu/archives/releases/tag/zipit-z2) |
 | ![](images/zipit3.jpg)  | [Zipit Z3](https://github.com/steward-fu/archives/releases/tag/zipit-z3) |
